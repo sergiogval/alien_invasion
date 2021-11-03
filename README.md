@@ -24,14 +24,3 @@ To move the ship right or left, use the corresponding arrow keys and shoot bulle
 ## Cloning the game for yourself 🎮
 
 ```
-$ git clone https://github.com/bryanlds/Alien-Invasion.git
-
-$ cd Alien-Invasion
-```
-To run:
-
-```
-python alien_invasion.py
-```
-
-Have Fun!
