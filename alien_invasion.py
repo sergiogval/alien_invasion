@@ -10,14 +10,14 @@ from pygame.sprite import Group
 from game_stats import GameStats
 from scoreboard import Scoreboard
 from scoreboard import Quit_State
-
+ 
 def run_game():
 	# Initialize pygame, settings, and screen object.
 	pygame.init()
 	ai_settings = Settings()
 	screen = pygame.display.set_mode(
 		(ai_settings.screen_width, ai_settings.screen_height))
-	pygame.display.set_caption("Alien Invasion")
+	pygame.display.set_caption("covid invasion")
 
 	# Set FPS
 	FPS = 60
