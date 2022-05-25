@@ -18,6 +18,10 @@ The only major game play changes include:
 ## Game Description
   
 Python 3 is required.
+Pygame is required. To install it on Windows, you can use the command `pip install pygame`.
 
 >To move the ship right or left, use the corresponding arrow keys and shoot bullets using the spacebar. When the game begins, a fleet of aliens appears at the top and >moves across and down the screen. After each fleet is destroyed, a new fleet appears that will be faster than the previous one. Once an alien reaches the bottom of >the screen, or hits the player's ship with a bullet, then the player loses a ship. Once the player loses all his ships, the game is over.
 
+## How to play
+
+Just clone the repository locally and run the file *alien_invasion.py*.
