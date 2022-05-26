@@ -1,3 +1,15 @@
+# Covid-Invasion
+
+Este juego, es creado a partir del popular juego de arcade "Space Invaders". La mayoría del código es tomado del libro "Python Crash Course" de Eric Matthers. Dicho esto, se le han hecho algunas modificaciones estéticas y de usabilidad del juego.
+
+Cambios estéticos:
+* Se agregó boton **Game Over**
+* Se cambió el color de fondo
+* Se cambió la fuente
+* La nave espacial ahora es una vacuna
+* Los aliens ahora son virus covid-19
+
+
 # Alien-Invasion
 This game, Alien Invasion, is created after the popular "Space Invaders". Most of the code here is from Eric Matthes' "Python Crash Course", though I have added  some gameplay and aesthetic changes.
 
